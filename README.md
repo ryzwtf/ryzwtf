@@ -5,8 +5,8 @@ I am a **self‑taught developer** specializing in **APIs** and **Discord bots**
 ---
 
 ## Discord Presence:
-[![Discord Presence](https://lanyard.cnrad.dev/api/1404240839726731391?bg=000000&idleMessage=Nothing&theme=dark&showDisplayName=true)](https://discord.com/users/1404240839726731391)
-[![Discord Presence](https://lanyard.cnrad.dev/api/444624204147458079?bg=000000&idleMessage=Nothing&theme=dark&showDisplayName=true)](https://discord.com/users/444624204147458079)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1404240839726731391)](https://discord.com/users/1404240839726731391)
+[![Discord Presence](https://lanyard.cnrad.dev/api/444624204147458079)](https://discord.com/users/444624204147458079)
 
 ---
 
