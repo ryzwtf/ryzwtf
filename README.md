@@ -34,7 +34,7 @@ I am a **self‑taught developer** specializing in **APIs** and **Discord bots**
 
 ## Projects:
 
-### **EXPOSE**
+### **FORENSIC**
 A powerful Discord bot that detects and exposes **FiveM cheaters**, helping maintain a fair and enjoyable experience for legitimate players.
 
 ---
