@@ -1,6 +1,6 @@
 # Hi, I´m ryz
 
-I am a **self‑taught developer** specializing in **APIs** and **Discord bots**. My main project, **Forensic Hub**, is a Discord bot designed to detect and expose **FiveM cheaters**, giving honest players the fair experience they deserve.
+I am a **self‑taught developer** specializing in **frontend** and **Discord bots**. My main project, **Forensic Hub**, is a Discord bot designed to detect **FiveM cheaters**, giving honest players the fair experience they deserve.
 
 ---
 
