@@ -34,7 +34,7 @@ I am a **self‑taught developer** specializing in **frontend** and **Discord bo
 ## Projects:
 
 ### **FORENSIC**
-A powerful Discord bot that detects and exposes **FiveM cheaters**, helping maintain a fair and enjoyable experience for legitimate players.
+A powerful Discord bot that detects and **FiveM cheaters**, helping maintain a fair and enjoyable experience for legitimate players.
 
 ---
 
