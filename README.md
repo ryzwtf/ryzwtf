@@ -16,12 +16,9 @@ I'm a self-taught fullstack developer from nrw
 
 
 # :bar_chart: GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ardaxyz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ardaxyz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ardaxyz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## :trophy: GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ardaxyz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-stats.vercel.app/api?username=ryzwtf&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ryzwtf&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryzwtf&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [](https://camo.githubusercontent.com/2c063e43f5301fd1fadb1d0319173304c0ff3d91f60c1031605f91be070f79ad/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d696e746572706f6c72797a266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)
