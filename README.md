@@ -10,7 +10,7 @@ I'm a self-taught fullstack developer from nrw
 ![Visual Studio Code](https://img.shields.io/badge/vscode-%232C2D72.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![GIT](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-## :cloud: Discord Presence:
+# :cloud: Discord Presence
 [![Discord Presence](https://lanyard.cnrad.dev/api/1404240839726731391)](https://discord.com/users/1404240839726731391)
 [![Discord Presence](https://lanyard.cnrad.dev/api/444624204147458079)](https://discord.com/users/444624204147458079)
 
