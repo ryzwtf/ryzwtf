@@ -21,5 +21,5 @@ I'm a self-taught fullstack developer from nrw
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryzwtf&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-![](https://camo.githubusercontent.com/2c063e43f5301fd1fadb1d0319173304c0ff3d91f60c1031605f91be070f79ad/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d696e746572706f6c72797a266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)
+![](https://komarev.com/ghpvc/?username=ryzwtf&label=Profile%20views&color=0e75b6&style=flat)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1404240839726731391) 
