@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://discord.gg/mullencord">
-    <img src="https://discord.c99.nl/widget/theme-1/727599616043909190.png" alt="Discord" />
+    <img src="https://discord.c99.nl/widget/theme-1/1404240839726731391.png" alt="Discord" />
   </a>
     <p align="center">  
       <img src="https://komarev.com/ghpvc/?username=socks5proxy">
