@@ -12,7 +12,7 @@
     <img src="https://discord.c99.nl/widget/theme-1/727599616043909190.png" alt="Discord" />
   </a>
     <p align="center">  
-      <img src="https://komarev.com/ghpvc/?username=Hunter-Matata">
+      <img src="https://komarev.com/ghpvc/?username=socks5proxy">
     </p>
 </div>
 
